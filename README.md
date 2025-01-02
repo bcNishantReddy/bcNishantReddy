@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bommiredd C Nishant Reddy and I'm a Under Graduate Student, from IIT-Madras and RV University.</h2>
+<h2 align="left">Hi 👋! My name is Bommiredd C Nishant Reddy and I'm a Under Graduate Student, from IIT-Madras and RVU.</h2>
 
 ###
 
